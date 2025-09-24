@@ -1,0 +1,282 @@
+2025-09-22 11:34:28Z [Information] Microsoft.Hosting.Lifetime: Now listening on: http://localhost:5167
+2025-09-22 11:34:28Z [Information] Microsoft.Hosting.Lifetime: Application started. Press Ctrl+C to shut down.
+2025-09-22 11:34:28Z [Information] Microsoft.Hosting.Lifetime: Hosting environment: Development
+2025-09-22 11:34:28Z [Information] Microsoft.Hosting.Lifetime: Content root path: C:\Users\Amulya\OneDrive - C-Mart Solutions Ltd\Technical\C#\StudentManagementSystem\StudentManagementSystem
+2025-09-22 11:34:34Z [Warning] Microsoft.AspNetCore.HttpsPolicy.HttpsRedirectionMiddleware: Failed to determine the https port for redirect.
+2025-09-22 11:34:35Z [Information] StudentManagementSystem.API.Controllers.StudentsController: Fetching all students
+2025-09-22 11:34:35Z [Warning] StudentManagementSystem.API.Controllers.StudentsController: warning
+2025-09-22 11:36:38Z [Information] Microsoft.Hosting.Lifetime: Now listening on: http://localhost:5167
+2025-09-22 11:36:38Z [Information] Microsoft.Hosting.Lifetime: Application started. Press Ctrl+C to shut down.
+2025-09-22 11:36:38Z [Information] Microsoft.Hosting.Lifetime: Hosting environment: Development
+2025-09-22 11:36:38Z [Information] Microsoft.Hosting.Lifetime: Content root path: C:\Users\Amulya\OneDrive - C-Mart Solutions Ltd\Technical\C#\StudentManagementSystem\StudentManagementSystem
+2025-09-22 11:36:44Z [Warning] Microsoft.AspNetCore.HttpsPolicy.HttpsRedirectionMiddleware: Failed to determine the https port for redirect.
+2025-09-22 11:36:45Z [Information] StudentManagementSystem.API.Controllers.StudentsController: Fetching all students
+2025-09-22 11:36:45Z [Warning] StudentManagementSystem.API.Controllers.StudentsController: warning
+2025-09-22 11:38:57Z [Information] StudentManagementSystem.API.Controllers.StudentsController: Fetching all students
+2025-09-22 11:38:57Z [Warning] StudentManagementSystem.API.Controllers.StudentsController: warning
+2025-09-22 11:39:52Z [Information] Microsoft.Hosting.Lifetime: Now listening on: http://localhost:5167
+2025-09-22 11:39:52Z [Information] Microsoft.Hosting.Lifetime: Application started. Press Ctrl+C to shut down.
+2025-09-22 11:39:52Z [Information] Microsoft.Hosting.Lifetime: Hosting environment: Development
+2025-09-22 11:39:52Z [Information] Microsoft.Hosting.Lifetime: Content root path: C:\Users\Amulya\OneDrive - C-Mart Solutions Ltd\Technical\C#\StudentManagementSystem\StudentManagementSystem
+2025-09-22 11:39:59Z [Warning] Microsoft.AspNetCore.HttpsPolicy.HttpsRedirectionMiddleware: Failed to determine the https port for redirect.
+2025-09-22 11:40:00Z [Information] StudentManagementSystem.API.Controllers.StudentsController: Fetching all students
+2025-09-22 11:40:00Z [Warning] StudentManagementSystem.API.Controllers.StudentsController: warning
+2025-09-22 11:43:42Z [Information] Microsoft.Hosting.Lifetime: Now listening on: http://localhost:5167
+2025-09-22 11:43:42Z [Information] Microsoft.Hosting.Lifetime: Application started. Press Ctrl+C to shut down.
+2025-09-22 11:43:42Z [Information] Microsoft.Hosting.Lifetime: Hosting environment: Development
+2025-09-22 11:43:42Z [Information] Microsoft.Hosting.Lifetime: Content root path: C:\Users\Amulya\OneDrive - C-Mart Solutions Ltd\Technical\C#\StudentManagementSystem\StudentManagementSystem
+2025-09-22 11:43:47Z [Warning] Microsoft.AspNetCore.HttpsPolicy.HttpsRedirectionMiddleware: Failed to determine the https port for redirect.
+2025-09-22 11:43:49Z [Information] StudentManagementSystem.API.Controllers.StudentsController: Fetching all students
+2025-09-22 11:43:49Z [Warning] StudentManagementSystem.API.Controllers.StudentsController: warning
+2025-09-22 11:43:52Z [Information] StudentManagementSystem.API.Controllers.StudentsController: Fetching all students
+2025-09-22 11:43:52Z [Warning] StudentManagementSystem.API.Controllers.StudentsController: warning
+2025-09-22 11:45:47Z [Information] Microsoft.Hosting.Lifetime: Now listening on: http://localhost:5167
+2025-09-22 11:45:47Z [Information] Microsoft.Hosting.Lifetime: Application started. Press Ctrl+C to shut down.
+2025-09-22 11:45:47Z [Information] Microsoft.Hosting.Lifetime: Hosting environment: Development
+2025-09-22 11:45:47Z [Information] Microsoft.Hosting.Lifetime: Content root path: C:\Users\Amulya\OneDrive - C-Mart Solutions Ltd\Technical\C#\StudentManagementSystem\StudentManagementSystem
+2025-09-22 11:45:53Z [Warning] Microsoft.AspNetCore.HttpsPolicy.HttpsRedirectionMiddleware: Failed to determine the https port for redirect.
+2025-09-22 11:45:54Z [Information] StudentManagementSystem.API.Controllers.StudentsController: Fetching all students
+2025-09-22 11:45:54Z [Warning] StudentManagementSystem.API.Controllers.StudentsController: warning
+2025-09-23 09:37:22Z [Information] Microsoft.Hosting.Lifetime: Now listening on: http://localhost:5167
+2025-09-23 09:37:23Z [Information] Microsoft.Hosting.Lifetime: Application started. Press Ctrl+C to shut down.
+2025-09-23 09:37:23Z [Information] Microsoft.Hosting.Lifetime: Hosting environment: Development
+2025-09-23 09:37:23Z [Information] Microsoft.Hosting.Lifetime: Content root path: C:\Users\Amulya\OneDrive - C-Mart Solutions Ltd\Technical\C#\StudentManagementSystem\StudentManagementSystem
+2025-09-23 09:37:29Z [Warning] Microsoft.AspNetCore.HttpsPolicy.HttpsRedirectionMiddleware: Failed to determine the https port for redirect.
+2025-09-23 09:37:30Z [Information] StudentManagementSystem.API.Controllers.StudentsController: Fetching all students
+2025-09-23 09:37:31Z [Information] StudentManagementSystem.API.Controllers.StudentsController: Successfully fetched 6 students
+2025-09-23 09:37:33Z [Information] StudentManagementSystem.API.Controllers.StudentsController: Fetching all students
+2025-09-23 09:37:33Z [Information] StudentManagementSystem.API.Controllers.StudentsController: Successfully fetched 6 students
+2025-09-23 09:39:16Z [Information] StudentManagementSystem.API.Controllers.StudentsController: Creating a new student with Name=Babitha
+2025-09-23 09:39:16Z [Information] StudentManagementSystem.API.Controllers.StudentsController: Successfully created student with Id=68d26ac43e0edd933040d2fc
+2025-09-23 09:39:39Z [Information] StudentManagementSystem.API.Controllers.StudentsController: Fetching student with Id=68d26ac43e0edd933040d2fc
+2025-09-23 09:39:40Z [Information] StudentManagementSystem.API.Controllers.StudentsController: Student with Id=68d26ac43e0edd933040d2fc found
+2025-09-23 09:40:10Z [Information] StudentManagementSystem.API.Controllers.StudentsController: Updating student with Id=68d26ac43e0edd933040d2fc
+2025-09-23 09:41:40Z [Error] Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware: An unhandled exception has occurred while executing the request.
+MongoDB.Bson.BsonSerializationException: An error occurred while serializing the Id property of class StudentManagementSystem.Core.Models.Student: 'string' is not a valid 24 digit hex string.
+ ---> System.FormatException: 'string' is not a valid 24 digit hex string.
+   at MongoDB.Bson.ObjectId.Parse(String s)
+   at MongoDB.Bson.Serialization.Serializers.StringSerializer.SerializeValue(BsonSerializationContext context, BsonSerializationArgs args, String value)
+   at MongoDB.Bson.Serialization.Serializers.SealedClassSerializerBase`1.Serialize(BsonSerializationContext context, BsonSerializationArgs args, TValue value)
+   at MongoDB.Bson.Serialization.IBsonSerializerExtensions.Serialize(IBsonSerializer serializer, BsonSerializationContext context, Object value)
+   at MongoDB.Bson.Serialization.BsonClassMapSerializer`1.SerializeNormalMember(BsonSerializationContext context, Object obj, BsonMemberMap memberMap)
+   at MongoDB.Bson.Serialization.BsonClassMapSerializer`1.SerializeMember(BsonSerializationContext context, Object obj, BsonMemberMap memberMap)
+   --- End of inner exception stack trace ---
+   at MongoDB.Driver.Core.Operations.RetryableWriteOperationExecutor.Execute[TResult](OperationContext operationContext, IRetryableWriteOperation`1 operation, RetryableWriteContext context)
+   at MongoDB.Driver.Core.Operations.BulkUnmixedWriteOperationBase`1.ExecuteBatch(OperationContext operationContext, RetryableWriteContext context, Batch batch)
+   at MongoDB.Driver.Core.Operations.BulkUnmixedWriteOperationBase`1.ExecuteBatches(OperationContext operationContext, RetryableWriteContext context)
+   at MongoDB.Driver.Core.Operations.BulkUnmixedWriteOperationBase`1.Execute(OperationContext operationContext, RetryableWriteContext context)
+   at MongoDB.Driver.Core.Operations.BulkMixedWriteOperation.ExecuteBatch(OperationContext operationContext, RetryableWriteContext context, Batch batch)
+   at MongoDB.Driver.Core.Operations.BulkMixedWriteOperation.Execute(OperationContext operationContext, IWriteBinding binding)
+   at MongoDB.Driver.OperationExecutor.ExecuteWriteOperation[TResult](OperationContext operationContext, IClientSessionHandle session, IWriteOperation`1 operation, Boolean allowChannelPinning)
+   at MongoDB.Driver.MongoCollectionImpl`1.ExecuteWriteOperation[TResult](IClientSessionHandle session, IWriteOperation`1 operation, Nullable`1 timeout, CancellationToken cancellationToken)
+   at MongoDB.Driver.MongoCollectionImpl`1.BulkWrite(IClientSessionHandle session, IEnumerable`1 requests, BulkWriteOptions options, CancellationToken cancellationToken)
+   at MongoDB.Driver.MongoCollectionImpl`1.BulkWrite(IEnumerable`1 requests, BulkWriteOptions options, CancellationToken cancellationToken)
+   at MongoDB.Driver.MongoCollectionBase`1.<>c__DisplayClass92_0.<ReplaceOne>b__0(IEnumerable`1 requests, BulkWriteOptions bulkWriteOptions)
+   at MongoDB.Driver.MongoCollectionBase`1.ReplaceOne(FilterDefinition`1 filter, TDocument replacement, ReplaceOptions options, Func`3 bulkWrite)
+   at MongoDB.Driver.MongoCollectionBase`1.ReplaceOne(FilterDefinition`1 filter, TDocument replacement, ReplaceOptions options, CancellationToken cancellationToken)
+   at MongoDB.Driver.IMongoCollectionExtensions.ReplaceOne[TDocument](IMongoCollection`1 collection, Expression`1 filter, TDocument replacement, ReplaceOptions options, CancellationToken cancellationToken)
+   at StudentManagementSystem.Infrastructure.Repositories.StudentRepository.UpdateStudent(String id, Student student) in C:\Users\Amulya\OneDrive - C-Mart Solutions Ltd\Technical\C#\StudentManagementSystem\StudentManagementSystem.Infrastructure\Repositories\StudentRepository.cs:line 20
+   at StudentService.Update(String id, Student student) in C:\Users\Amulya\OneDrive - C-Mart Solutions Ltd\Technical\C#\StudentManagementSystem\StudentManagementSystem.Services\Services\StudentService.cs:line 22
+   at StudentManagementSystem.API.Controllers.StudentsController.Put(String id, Student student) in C:\Users\Amulya\OneDrive - C-Mart Solutions Ltd\Technical\C#\StudentManagementSystem\StudentManagementSystem\Controllers\StudentControllers.cs:line 76
+   at lambda_method21(Closure, Object, Object[])
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.SyncActionResultExecutor.Execute(ActionContext actionContext, IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeActionMethodAsync()
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeNextActionFilterAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeInnerFilterAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|20_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Swashbuckle.AspNetCore.SwaggerUI.SwaggerUIMiddleware.Invoke(HttpContext httpContext)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddlewareImpl.Invoke(HttpContext context)
+2025-09-23 09:42:08Z [Information] StudentManagementSystem.API.Controllers.StudentsController: Updating student with Id=68d26ac43e0edd933040d2fc
+2025-09-23 09:42:27Z [Error] Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware: An unhandled exception has occurred while executing the request.
+MongoDB.Bson.BsonSerializationException: An error occurred while serializing the Id property of class StudentManagementSystem.Core.Models.Student: 'string' is not a valid 24 digit hex string.
+ ---> System.FormatException: 'string' is not a valid 24 digit hex string.
+   at MongoDB.Bson.ObjectId.Parse(String s)
+   at MongoDB.Bson.Serialization.Serializers.StringSerializer.SerializeValue(BsonSerializationContext context, BsonSerializationArgs args, String value)
+   at MongoDB.Bson.Serialization.Serializers.SealedClassSerializerBase`1.Serialize(BsonSerializationContext context, BsonSerializationArgs args, TValue value)
+   at MongoDB.Bson.Serialization.IBsonSerializerExtensions.Serialize(IBsonSerializer serializer, BsonSerializationContext context, Object value)
+   at MongoDB.Bson.Serialization.BsonClassMapSerializer`1.SerializeNormalMember(BsonSerializationContext context, Object obj, BsonMemberMap memberMap)
+   at MongoDB.Bson.Serialization.BsonClassMapSerializer`1.SerializeMember(BsonSerializationContext context, Object obj, BsonMemberMap memberMap)
+   --- End of inner exception stack trace ---
+   at MongoDB.Driver.Core.Operations.RetryableWriteOperationExecutor.Execute[TResult](OperationContext operationContext, IRetryableWriteOperation`1 operation, RetryableWriteContext context)
+   at MongoDB.Driver.Core.Operations.BulkUnmixedWriteOperationBase`1.ExecuteBatch(OperationContext operationContext, RetryableWriteContext context, Batch batch)
+   at MongoDB.Driver.Core.Operations.BulkUnmixedWriteOperationBase`1.ExecuteBatches(OperationContext operationContext, RetryableWriteContext context)
+   at MongoDB.Driver.Core.Operations.BulkUnmixedWriteOperationBase`1.Execute(OperationContext operationContext, RetryableWriteContext context)
+   at MongoDB.Driver.Core.Operations.BulkMixedWriteOperation.ExecuteBatch(OperationContext operationContext, RetryableWriteContext context, Batch batch)
+   at MongoDB.Driver.Core.Operations.BulkMixedWriteOperation.Execute(OperationContext operationContext, IWriteBinding binding)
+   at MongoDB.Driver.OperationExecutor.ExecuteWriteOperation[TResult](OperationContext operationContext, IClientSessionHandle session, IWriteOperation`1 operation, Boolean allowChannelPinning)
+   at MongoDB.Driver.MongoCollectionImpl`1.ExecuteWriteOperation[TResult](IClientSessionHandle session, IWriteOperation`1 operation, Nullable`1 timeout, CancellationToken cancellationToken)
+   at MongoDB.Driver.MongoCollectionImpl`1.BulkWrite(IClientSessionHandle session, IEnumerable`1 requests, BulkWriteOptions options, CancellationToken cancellationToken)
+   at MongoDB.Driver.MongoCollectionImpl`1.BulkWrite(IEnumerable`1 requests, BulkWriteOptions options, CancellationToken cancellationToken)
+   at MongoDB.Driver.MongoCollectionBase`1.<>c__DisplayClass92_0.<ReplaceOne>b__0(IEnumerable`1 requests, BulkWriteOptions bulkWriteOptions)
+   at MongoDB.Driver.MongoCollectionBase`1.ReplaceOne(FilterDefinition`1 filter, TDocument replacement, ReplaceOptions options, Func`3 bulkWrite)
+   at MongoDB.Driver.MongoCollectionBase`1.ReplaceOne(FilterDefinition`1 filter, TDocument replacement, ReplaceOptions options, CancellationToken cancellationToken)
+   at MongoDB.Driver.IMongoCollectionExtensions.ReplaceOne[TDocument](IMongoCollection`1 collection, Expression`1 filter, TDocument replacement, ReplaceOptions options, CancellationToken cancellationToken)
+   at StudentManagementSystem.Infrastructure.Repositories.StudentRepository.UpdateStudent(String id, Student student) in C:\Users\Amulya\OneDrive - C-Mart Solutions Ltd\Technical\C#\StudentManagementSystem\StudentManagementSystem.Infrastructure\Repositories\StudentRepository.cs:line 20
+   at StudentService.Update(String id, Student student) in C:\Users\Amulya\OneDrive - C-Mart Solutions Ltd\Technical\C#\StudentManagementSystem\StudentManagementSystem.Services\Services\StudentService.cs:line 22
+   at StudentManagementSystem.API.Controllers.StudentsController.Put(String id, Student student) in C:\Users\Amulya\OneDrive - C-Mart Solutions Ltd\Technical\C#\StudentManagementSystem\StudentManagementSystem\Controllers\StudentControllers.cs:line 76
+   at lambda_method21(Closure, Object, Object[])
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.SyncActionResultExecutor.Execute(ActionContext actionContext, IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeActionMethodAsync()
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeNextActionFilterAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeInnerFilterAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|20_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Swashbuckle.AspNetCore.SwaggerUI.SwaggerUIMiddleware.Invoke(HttpContext httpContext)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddlewareImpl.Invoke(HttpContext context)
+2025-09-23 09:42:32Z [Information] StudentManagementSystem.API.Controllers.StudentsController: Updating student with Id=68d26ac43e0edd933040d2fc
+2025-09-23 09:43:39Z [Error] Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware: An unhandled exception has occurred while executing the request.
+MongoDB.Bson.BsonSerializationException: An error occurred while serializing the Id property of class StudentManagementSystem.Core.Models.Student: 'string' is not a valid 24 digit hex string.
+ ---> System.FormatException: 'string' is not a valid 24 digit hex string.
+   at MongoDB.Bson.ObjectId.Parse(String s)
+   at MongoDB.Bson.Serialization.Serializers.StringSerializer.SerializeValue(BsonSerializationContext context, BsonSerializationArgs args, String value)
+   at MongoDB.Bson.Serialization.Serializers.SealedClassSerializerBase`1.Serialize(BsonSerializationContext context, BsonSerializationArgs args, TValue value)
+   at MongoDB.Bson.Serialization.IBsonSerializerExtensions.Serialize(IBsonSerializer serializer, BsonSerializationContext context, Object value)
+   at MongoDB.Bson.Serialization.BsonClassMapSerializer`1.SerializeNormalMember(BsonSerializationContext context, Object obj, BsonMemberMap memberMap)
+   at MongoDB.Bson.Serialization.BsonClassMapSerializer`1.SerializeMember(BsonSerializationContext context, Object obj, BsonMemberMap memberMap)
+   --- End of inner exception stack trace ---
+   at MongoDB.Driver.Core.Operations.RetryableWriteOperationExecutor.Execute[TResult](OperationContext operationContext, IRetryableWriteOperation`1 operation, RetryableWriteContext context)
+   at MongoDB.Driver.Core.Operations.BulkUnmixedWriteOperationBase`1.ExecuteBatch(OperationContext operationContext, RetryableWriteContext context, Batch batch)
+   at MongoDB.Driver.Core.Operations.BulkUnmixedWriteOperationBase`1.ExecuteBatches(OperationContext operationContext, RetryableWriteContext context)
+   at MongoDB.Driver.Core.Operations.BulkUnmixedWriteOperationBase`1.Execute(OperationContext operationContext, RetryableWriteContext context)
+   at MongoDB.Driver.Core.Operations.BulkMixedWriteOperation.ExecuteBatch(OperationContext operationContext, RetryableWriteContext context, Batch batch)
+   at MongoDB.Driver.Core.Operations.BulkMixedWriteOperation.Execute(OperationContext operationContext, IWriteBinding binding)
+   at MongoDB.Driver.OperationExecutor.ExecuteWriteOperation[TResult](OperationContext operationContext, IClientSessionHandle session, IWriteOperation`1 operation, Boolean allowChannelPinning)
+   at MongoDB.Driver.MongoCollectionImpl`1.ExecuteWriteOperation[TResult](IClientSessionHandle session, IWriteOperation`1 operation, Nullable`1 timeout, CancellationToken cancellationToken)
+   at MongoDB.Driver.MongoCollectionImpl`1.BulkWrite(IClientSessionHandle session, IEnumerable`1 requests, BulkWriteOptions options, CancellationToken cancellationToken)
+   at MongoDB.Driver.MongoCollectionImpl`1.BulkWrite(IEnumerable`1 requests, BulkWriteOptions options, CancellationToken cancellationToken)
+   at MongoDB.Driver.MongoCollectionBase`1.<>c__DisplayClass92_0.<ReplaceOne>b__0(IEnumerable`1 requests, BulkWriteOptions bulkWriteOptions)
+   at MongoDB.Driver.MongoCollectionBase`1.ReplaceOne(FilterDefinition`1 filter, TDocument replacement, ReplaceOptions options, Func`3 bulkWrite)
+   at MongoDB.Driver.MongoCollectionBase`1.ReplaceOne(FilterDefinition`1 filter, TDocument replacement, ReplaceOptions options, CancellationToken cancellationToken)
+   at MongoDB.Driver.IMongoCollectionExtensions.ReplaceOne[TDocument](IMongoCollection`1 collection, Expression`1 filter, TDocument replacement, ReplaceOptions options, CancellationToken cancellationToken)
+   at StudentManagementSystem.Infrastructure.Repositories.StudentRepository.UpdateStudent(String id, Student student) in C:\Users\Amulya\OneDrive - C-Mart Solutions Ltd\Technical\C#\StudentManagementSystem\StudentManagementSystem.Infrastructure\Repositories\StudentRepository.cs:line 20
+   at StudentService.Update(String id, Student student) in C:\Users\Amulya\OneDrive - C-Mart Solutions Ltd\Technical\C#\StudentManagementSystem\StudentManagementSystem.Services\Services\StudentService.cs:line 22
+   at StudentManagementSystem.API.Controllers.StudentsController.Put(String id, Student student) in C:\Users\Amulya\OneDrive - C-Mart Solutions Ltd\Technical\C#\StudentManagementSystem\StudentManagementSystem\Controllers\StudentControllers.cs:line 76
+   at lambda_method21(Closure, Object, Object[])
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.SyncActionResultExecutor.Execute(ActionContext actionContext, IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeActionMethodAsync()
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeNextActionFilterAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeInnerFilterAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|20_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Swashbuckle.AspNetCore.SwaggerUI.SwaggerUIMiddleware.Invoke(HttpContext httpContext)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddlewareImpl.Invoke(HttpContext context)
+2025-09-23 09:43:39Z [Information] StudentManagementSystem.API.Controllers.StudentsController: Deleting student with Id=68d26ac43e0edd933040d2fc
+2025-09-23 09:43:40Z [Information] StudentManagementSystem.API.Controllers.StudentsController: Successfully deleted student with Id=68d26ac43e0edd933040d2fc
+2025-09-23 09:53:45Z [Critical] Microsoft.AspNetCore.Hosting.Diagnostics: Application startup exception
+System.MissingMethodException: Method not found: 'Boolean Microsoft.AspNetCore.Authorization.IAuthorizationPolicyProvider.get_AllowsCachingPolicies()'.
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware..ctor(RequestDelegate next, IAuthorizationPolicyProvider policyProvider, IServiceProvider services)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddlewareInternal..ctor(RequestDelegate next, IServiceProvider services, IAuthorizationPolicyProvider policyProvider, ILogger`1 logger)
+   at System.RuntimeMethodHandle.InvokeMethod(Object target, Void** arguments, Signature sig, Boolean isConstructor)
+   at System.Reflection.MethodBaseInvoker.InvokeDirectByRefWithFewArgs(Object obj, Span`1 copyOfArgs, BindingFlags invokeAttr)
+   at System.Reflection.MethodBaseInvoker.InvokeWithFewArgs(Object obj, BindingFlags invokeAttr, Binder binder, Object[] parameters, CultureInfo culture)
+   at System.Reflection.RuntimeConstructorInfo.Invoke(BindingFlags invokeAttr, Binder binder, Object[] parameters, CultureInfo culture)
+   at Microsoft.Extensions.Internal.ActivatorUtilities.ConstructorMatcher.CreateInstance(IServiceProvider provider)
+   at Microsoft.Extensions.Internal.ActivatorUtilities.CreateInstance(IServiceProvider provider, Type instanceType, Object[] parameters)
+   at Microsoft.AspNetCore.Builder.UseMiddlewareExtensions.ReflectionMiddlewareBinder.CreateMiddleware(RequestDelegate next)
+   at Microsoft.AspNetCore.Builder.ApplicationBuilder.Build()
+   at Microsoft.AspNetCore.Builder.ApplicationBuilder.Build()
+   at Microsoft.AspNetCore.Hosting.GenericWebHostService.StartAsync(CancellationToken cancellationToken)
+2025-09-23 09:53:46Z [Error] Microsoft.Extensions.Hosting.Internal.Host: Hosting failed to start
+System.MissingMethodException: Method not found: 'Boolean Microsoft.AspNetCore.Authorization.IAuthorizationPolicyProvider.get_AllowsCachingPolicies()'.
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware..ctor(RequestDelegate next, IAuthorizationPolicyProvider policyProvider, IServiceProvider services)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddlewareInternal..ctor(RequestDelegate next, IServiceProvider services, IAuthorizationPolicyProvider policyProvider, ILogger`1 logger)
+   at System.RuntimeMethodHandle.InvokeMethod(Object target, Void** arguments, Signature sig, Boolean isConstructor)
+   at System.Reflection.MethodBaseInvoker.InvokeDirectByRefWithFewArgs(Object obj, Span`1 copyOfArgs, BindingFlags invokeAttr)
+   at System.Reflection.MethodBaseInvoker.InvokeWithFewArgs(Object obj, BindingFlags invokeAttr, Binder binder, Object[] parameters, CultureInfo culture)
+   at System.Reflection.RuntimeConstructorInfo.Invoke(BindingFlags invokeAttr, Binder binder, Object[] parameters, CultureInfo culture)
+   at Microsoft.Extensions.Internal.ActivatorUtilities.ConstructorMatcher.CreateInstance(IServiceProvider provider)
+   at Microsoft.Extensions.Internal.ActivatorUtilities.CreateInstance(IServiceProvider provider, Type instanceType, Object[] parameters)
+   at Microsoft.AspNetCore.Builder.UseMiddlewareExtensions.ReflectionMiddlewareBinder.CreateMiddleware(RequestDelegate next)
+   at Microsoft.AspNetCore.Builder.ApplicationBuilder.Build()
+   at Microsoft.AspNetCore.Builder.ApplicationBuilder.Build()
+   at Microsoft.AspNetCore.Hosting.GenericWebHostService.StartAsync(CancellationToken cancellationToken)
+   at Microsoft.Extensions.Hosting.Internal.Host.<StartAsync>b__15_1(IHostedService service, CancellationToken token)
+   at Microsoft.Extensions.Hosting.Internal.Host.ForeachService[T](IEnumerable`1 services, CancellationToken token, Boolean concurrent, Boolean abortOnFirstException, List`1 exceptions, Func`3 operation)
+2025-09-23 09:54:06Z [Critical] Microsoft.AspNetCore.Hosting.Diagnostics: Application startup exception
+System.MissingMethodException: Method not found: 'Boolean Microsoft.AspNetCore.Authorization.IAuthorizationPolicyProvider.get_AllowsCachingPolicies()'.
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware..ctor(RequestDelegate next, IAuthorizationPolicyProvider policyProvider, IServiceProvider services)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddlewareInternal..ctor(RequestDelegate next, IServiceProvider services, IAuthorizationPolicyProvider policyProvider, ILogger`1 logger)
+   at System.RuntimeMethodHandle.InvokeMethod(Object target, Void** arguments, Signature sig, Boolean isConstructor)
+   at System.Reflection.MethodBaseInvoker.InvokeDirectByRefWithFewArgs(Object obj, Span`1 copyOfArgs, BindingFlags invokeAttr)
+   at System.Reflection.MethodBaseInvoker.InvokeWithFewArgs(Object obj, BindingFlags invokeAttr, Binder binder, Object[] parameters, CultureInfo culture)
+   at System.Reflection.RuntimeConstructorInfo.Invoke(BindingFlags invokeAttr, Binder binder, Object[] parameters, CultureInfo culture)
+   at Microsoft.Extensions.Internal.ActivatorUtilities.ConstructorMatcher.CreateInstance(IServiceProvider provider)
+   at Microsoft.Extensions.Internal.ActivatorUtilities.CreateInstance(IServiceProvider provider, Type instanceType, Object[] parameters)
+   at Microsoft.AspNetCore.Builder.UseMiddlewareExtensions.ReflectionMiddlewareBinder.CreateMiddleware(RequestDelegate next)
+   at Microsoft.AspNetCore.Builder.ApplicationBuilder.Build()
+   at Microsoft.AspNetCore.Builder.ApplicationBuilder.Build()
+   at Microsoft.AspNetCore.Hosting.GenericWebHostService.StartAsync(CancellationToken cancellationToken)
+2025-09-23 09:54:06Z [Error] Microsoft.Extensions.Hosting.Internal.Host: Hosting failed to start
+System.MissingMethodException: Method not found: 'Boolean Microsoft.AspNetCore.Authorization.IAuthorizationPolicyProvider.get_AllowsCachingPolicies()'.
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware..ctor(RequestDelegate next, IAuthorizationPolicyProvider policyProvider, IServiceProvider services)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddlewareInternal..ctor(RequestDelegate next, IServiceProvider services, IAuthorizationPolicyProvider policyProvider, ILogger`1 logger)
+   at System.RuntimeMethodHandle.InvokeMethod(Object target, Void** arguments, Signature sig, Boolean isConstructor)
+   at System.Reflection.MethodBaseInvoker.InvokeDirectByRefWithFewArgs(Object obj, Span`1 copyOfArgs, BindingFlags invokeAttr)
+   at System.Reflection.MethodBaseInvoker.InvokeWithFewArgs(Object obj, BindingFlags invokeAttr, Binder binder, Object[] parameters, CultureInfo culture)
+   at System.Reflection.RuntimeConstructorInfo.Invoke(BindingFlags invokeAttr, Binder binder, Object[] parameters, CultureInfo culture)
+   at Microsoft.Extensions.Internal.ActivatorUtilities.ConstructorMatcher.CreateInstance(IServiceProvider provider)
+   at Microsoft.Extensions.Internal.ActivatorUtilities.CreateInstance(IServiceProvider provider, Type instanceType, Object[] parameters)
+   at Microsoft.AspNetCore.Builder.UseMiddlewareExtensions.ReflectionMiddlewareBinder.CreateMiddleware(RequestDelegate next)
+   at Microsoft.AspNetCore.Builder.ApplicationBuilder.Build()
+   at Microsoft.AspNetCore.Builder.ApplicationBuilder.Build()
+   at Microsoft.AspNetCore.Hosting.GenericWebHostService.StartAsync(CancellationToken cancellationToken)
+   at Microsoft.Extensions.Hosting.Internal.Host.<StartAsync>b__15_1(IHostedService service, CancellationToken token)
+   at Microsoft.Extensions.Hosting.Internal.Host.ForeachService[T](IEnumerable`1 services, CancellationToken token, Boolean concurrent, Boolean abortOnFirstException, List`1 exceptions, Func`3 operation)
+2025-09-23 09:55:44Z [Critical] Microsoft.AspNetCore.Hosting.Diagnostics: Application startup exception
+System.MissingMethodException: Method not found: 'Boolean Microsoft.AspNetCore.Authorization.IAuthorizationPolicyProvider.get_AllowsCachingPolicies()'.
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware..ctor(RequestDelegate next, IAuthorizationPolicyProvider policyProvider, IServiceProvider services)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddlewareInternal..ctor(RequestDelegate next, IServiceProvider services, IAuthorizationPolicyProvider policyProvider, ILogger`1 logger)
+   at System.RuntimeMethodHandle.InvokeMethod(Object target, Void** arguments, Signature sig, Boolean isConstructor)
+   at System.Reflection.MethodBaseInvoker.InvokeDirectByRefWithFewArgs(Object obj, Span`1 copyOfArgs, BindingFlags invokeAttr)
+   at System.Reflection.MethodBaseInvoker.InvokeWithFewArgs(Object obj, BindingFlags invokeAttr, Binder binder, Object[] parameters, CultureInfo culture)
+   at System.Reflection.RuntimeConstructorInfo.Invoke(BindingFlags invokeAttr, Binder binder, Object[] parameters, CultureInfo culture)
+   at Microsoft.Extensions.Internal.ActivatorUtilities.ConstructorMatcher.CreateInstance(IServiceProvider provider)
+   at Microsoft.Extensions.Internal.ActivatorUtilities.CreateInstance(IServiceProvider provider, Type instanceType, Object[] parameters)
+   at Microsoft.AspNetCore.Builder.UseMiddlewareExtensions.ReflectionMiddlewareBinder.CreateMiddleware(RequestDelegate next)
+   at Microsoft.AspNetCore.Builder.ApplicationBuilder.Build()
+   at Microsoft.AspNetCore.Builder.ApplicationBuilder.Build()
+   at Microsoft.AspNetCore.Hosting.GenericWebHostService.StartAsync(CancellationToken cancellationToken)
+2025-09-23 09:55:44Z [Error] Microsoft.Extensions.Hosting.Internal.Host: Hosting failed to start
+System.MissingMethodException: Method not found: 'Boolean Microsoft.AspNetCore.Authorization.IAuthorizationPolicyProvider.get_AllowsCachingPolicies()'.
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware..ctor(RequestDelegate next, IAuthorizationPolicyProvider policyProvider, IServiceProvider services)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddlewareInternal..ctor(RequestDelegate next, IServiceProvider services, IAuthorizationPolicyProvider policyProvider, ILogger`1 logger)
+   at System.RuntimeMethodHandle.InvokeMethod(Object target, Void** arguments, Signature sig, Boolean isConstructor)
+   at System.Reflection.MethodBaseInvoker.InvokeDirectByRefWithFewArgs(Object obj, Span`1 copyOfArgs, BindingFlags invokeAttr)
+   at System.Reflection.MethodBaseInvoker.InvokeWithFewArgs(Object obj, BindingFlags invokeAttr, Binder binder, Object[] parameters, CultureInfo culture)
+   at System.Reflection.RuntimeConstructorInfo.Invoke(BindingFlags invokeAttr, Binder binder, Object[] parameters, CultureInfo culture)
+   at Microsoft.Extensions.Internal.ActivatorUtilities.ConstructorMatcher.CreateInstance(IServiceProvider provider)
+   at Microsoft.Extensions.Internal.ActivatorUtilities.CreateInstance(IServiceProvider provider, Type instanceType, Object[] parameters)
+   at Microsoft.AspNetCore.Builder.UseMiddlewareExtensions.ReflectionMiddlewareBinder.CreateMiddleware(RequestDelegate next)
+   at Microsoft.AspNetCore.Builder.ApplicationBuilder.Build()
+   at Microsoft.AspNetCore.Builder.ApplicationBuilder.Build()
+   at Microsoft.AspNetCore.Hosting.GenericWebHostService.StartAsync(CancellationToken cancellationToken)
+   at Microsoft.Extensions.Hosting.Internal.Host.<StartAsync>b__15_1(IHostedService service, CancellationToken token)
+   at Microsoft.Extensions.Hosting.Internal.Host.ForeachService[T](IEnumerable`1 services, CancellationToken token, Boolean concurrent, Boolean abortOnFirstException, List`1 exceptions, Func`3 operation)

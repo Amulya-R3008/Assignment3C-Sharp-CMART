@@ -1,0 +1,13 @@
+C:\Users\Amulya\OneDrive - C-Mart Solutions Ltd\Technical\C#\StudentManagementSystem\StudentManagementSystem.Models\bin\Debug\net8.0\StudentManagementSystem.Models.deps.json
+C:\Users\Amulya\OneDrive - C-Mart Solutions Ltd\Technical\C#\StudentManagementSystem\StudentManagementSystem.Models\bin\Debug\net8.0\StudentManagementSystem.Models.dll
+C:\Users\Amulya\OneDrive - C-Mart Solutions Ltd\Technical\C#\StudentManagementSystem\StudentManagementSystem.Models\bin\Debug\net8.0\StudentManagementSystem.Models.pdb
+C:\Users\Amulya\OneDrive - C-Mart Solutions Ltd\Technical\C#\StudentManagementSystem\StudentManagementSystem.Models\obj\Debug\net8.0\StudentManagementSystem.Models.csproj.AssemblyReference.cache
+C:\Users\Amulya\OneDrive - C-Mart Solutions Ltd\Technical\C#\StudentManagementSystem\StudentManagementSystem.Models\obj\Debug\net8.0\StudentManagementSystem.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Amulya\OneDrive - C-Mart Solutions Ltd\Technical\C#\StudentManagementSystem\StudentManagementSystem.Models\obj\Debug\net8.0\StudentManagementSystem.Models.AssemblyInfoInputs.cache
+C:\Users\Amulya\OneDrive - C-Mart Solutions Ltd\Technical\C#\StudentManagementSystem\StudentManagementSystem.Models\obj\Debug\net8.0\StudentManagementSystem.Models.AssemblyInfo.cs
+C:\Users\Amulya\OneDrive - C-Mart Solutions Ltd\Technical\C#\StudentManagementSystem\StudentManagementSystem.Models\obj\Debug\net8.0\StudentManagementSystem.Models.csproj.CoreCompileInputs.cache
+C:\Users\Amulya\OneDrive - C-Mart Solutions Ltd\Technical\C#\StudentManagementSystem\StudentManagementSystem.Models\obj\Debug\net8.0\StudentManagementSystem.Models.sourcelink.json
+C:\Users\Amulya\OneDrive - C-Mart Solutions Ltd\Technical\C#\StudentManagementSystem\StudentManagementSystem.Models\obj\Debug\net8.0\StudentManagementSystem.Models.dll
+C:\Users\Amulya\OneDrive - C-Mart Solutions Ltd\Technical\C#\StudentManagementSystem\StudentManagementSystem.Models\obj\Debug\net8.0\refint\StudentManagementSystem.Models.dll
+C:\Users\Amulya\OneDrive - C-Mart Solutions Ltd\Technical\C#\StudentManagementSystem\StudentManagementSystem.Models\obj\Debug\net8.0\StudentManagementSystem.Models.pdb
+C:\Users\Amulya\OneDrive - C-Mart Solutions Ltd\Technical\C#\StudentManagementSystem\StudentManagementSystem.Models\obj\Debug\net8.0\ref\StudentManagementSystem.Models.dll
