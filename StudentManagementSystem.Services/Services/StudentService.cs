@@ -1,4 +1,5 @@
-﻿using StudentManagementSystem.Core.Models;
+﻿using MongoDB.Bson;
+using StudentManagementSystem.Core.Models;
 using StudentManagementSystem.Infrastructure.Repositories;
 using System;
 using System.Collections.Generic;
@@ -14,10 +15,8 @@ namespace StudentManagementSystem.Services.Services
             _repository = repository;
         }
 
-        // Get all students
         public List<Student> Get() => _repository.GetAllStudents();
 
-        // Get single student by Id
         public Student Get(string id)
         {
             if (string.IsNullOrWhiteSpace(id))
@@ -30,16 +29,13 @@ namespace StudentManagementSystem.Services.Services
             return student;
         }
 
-        // Create a new student
         public Student Create(Student student)
         {
             ValidateStudent(student);
-
             _repository.AddStudent(student);
             return student;
         }
 
-        // Update existing student
         public void Update(string id, Student student)
         {
             if (string.IsNullOrWhiteSpace(id))
@@ -50,11 +46,9 @@ namespace StudentManagementSystem.Services.Services
                 throw new KeyNotFoundException($"Student with Id={id} not found.");
 
             ValidateStudent(student);
-
             _repository.UpdateStudent(id, student);
         }
 
-        // Delete student by Id
         public void Remove(string id)
         {
             if (string.IsNullOrWhiteSpace(id))
@@ -67,7 +61,6 @@ namespace StudentManagementSystem.Services.Services
             _repository.DeleteStudent(id);
         }
 
-        // Private helper for validating business rules
         private void ValidateStudent(Student student)
         {
             if (student == null)
@@ -76,8 +69,8 @@ namespace StudentManagementSystem.Services.Services
             if (string.IsNullOrWhiteSpace(student.Name))
                 throw new ArgumentException("Student name is required.");
 
-            if (student.Age < 0 || student.Age > 120)
-                throw new ArgumentException("Age must be between 0 and 120.");
+            if (student.Age < 1 || student.Age > 120)
+                throw new ArgumentException("Age must be between 1 and 120.");
 
             if (!string.IsNullOrWhiteSpace(student.Gender) &&
                 student.Gender.ToLower() != "male" &&

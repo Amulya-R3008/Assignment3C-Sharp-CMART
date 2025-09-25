@@ -1,6 +1,7 @@
 ﻿using MongoDB.Driver;
 using StudentManagementSystem.Core.Models;
 using StudentManagementSystem.Infrastructure.Data;
+using System.Collections.Generic;
 
 namespace StudentManagementSystem.Infrastructure.Repositories
 {
@@ -16,16 +17,32 @@ namespace StudentManagementSystem.Infrastructure.Repositories
         public List<Student> GetAllStudents() =>
             _context.Students.Find(s => true).ToList();
 
-        public Student? GetStudentById(string id) =>
-            _context.Students.Find(s => s.Id == id).FirstOrDefault();
+        public Student? GetStudentById(string id)
+        {
+            var filter = Builders<Student>.Filter.Eq(s => s.Id, id);
+            return _context.Students.Find(filter).FirstOrDefault();
+        }
 
         public void AddStudent(Student student) =>
             _context.Students.InsertOne(student);
+        //public void AddStudent(Student student)
+        //{
+        //    student.Id = null; // Let MongoDB auto-generate ObjectId
+        //    _context.Students.InsertOne(student);
+        //}
 
-        public void UpdateStudent(string id, Student student) =>
-            _context.Students.ReplaceOne(s => s.Id == id, student);
 
-        public void DeleteStudent(string id) =>
-            _context.Students.DeleteOne(s => s.Id == id);
+        public void UpdateStudent(string id, Student student)
+        {
+            student.Id = id; // ensure the Id matches
+            var filter = Builders<Student>.Filter.Eq(s => s.Id, id);
+            _context.Students.ReplaceOne(filter, student);
+        }
+
+        public void DeleteStudent(string id)
+        {
+            var filter = Builders<Student>.Filter.Eq(s => s.Id, id);
+            _context.Students.DeleteOne(filter);
+        }
     }
 }
