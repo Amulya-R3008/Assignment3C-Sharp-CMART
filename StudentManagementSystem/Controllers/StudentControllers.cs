@@ -5,6 +5,7 @@ using StudentManagementSystem.Services.Services;
 
 namespace StudentManagementSystem.API.Controllers
 {
+    [Authorize] // Require authentication for all actions
     [Route("api/[controller]")]
     [ApiController]
     public class StudentsController : ControllerBase
@@ -20,6 +21,7 @@ namespace StudentManagementSystem.API.Controllers
 
         // GET: api/students
         [HttpGet]
+        [Authorize(Roles = "Admin,Moderator,ReadOnly")] // All roles can read
         public ActionResult<List<Student>> Get()
         {
             _logger.LogInformation("Fetching all students");
@@ -30,6 +32,7 @@ namespace StudentManagementSystem.API.Controllers
 
         // GET api/students/{id}
         [HttpGet("{id}")]
+        [Authorize(Roles = "Admin,Moderator,ReadOnly")] // All roles can read
         public ActionResult<Student> Get(string id)
         {
             if (string.IsNullOrWhiteSpace(id))
@@ -53,6 +56,7 @@ namespace StudentManagementSystem.API.Controllers
 
         // POST api/students
         [HttpPost]
+        [Authorize(Roles = "Admin,Moderator")] // Only Admin and Moderator can create
         public ActionResult<Student> Post([FromBody] Student student)
         {
             if (student == null)
@@ -89,6 +93,7 @@ namespace StudentManagementSystem.API.Controllers
 
         // PUT api/students/{id}
         [HttpPut("{id}")]
+        [Authorize(Roles = "Admin,Moderator")] // Only Admin and Moderator can update
         public ActionResult Put(string id, [FromBody] Student student)
         {
             if (string.IsNullOrWhiteSpace(id))
@@ -129,6 +134,7 @@ namespace StudentManagementSystem.API.Controllers
 
         // DELETE api/students/{id}
         [HttpDelete("{id}")]
+        [Authorize(Roles = "Admin")] // Only Admin can delete
         public ActionResult Delete(string id)
         {
             if (string.IsNullOrWhiteSpace(id))

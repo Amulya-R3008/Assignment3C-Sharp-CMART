@@ -13,6 +13,6 @@ namespace StudentManagementSystem.Infrastructure.Data
         }
 
         public IMongoCollection<Student> Students =>
-            _database.GetCollection<Student>("studentcourses");
+            _database.GetCollection<Student>("studentcourse");
     }
 }
